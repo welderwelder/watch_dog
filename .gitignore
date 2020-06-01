@@ -1,0 +1,13 @@
+#
+# !!! Ignore everything:
+
+*
+
+
+#BUT not these files:
+!.gitignore
+!README.md
+!Robot.py
+!Dog.py
+!watch_dog.py
+!Msg.py
